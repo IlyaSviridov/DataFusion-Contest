@@ -7,7 +7,7 @@
 - 10 место (из 265) public leaderboard
 ---
 ##### Ноутбуки:
-- create_dataset.ipynb - Создание вспомогательных данных 
+- create_dataset.ipynb - создание вспомогательных данных 
 - SVC.ipynb - модель предсказания на LinearSVC
 
 
